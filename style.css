@@ -135,7 +135,7 @@ header p {
     .box {
         width: 100%;
         max-width: 290px;
-        height: 11.625rem;
+        height: auto;
     }
 
     .box-2-4 {
@@ -149,7 +149,7 @@ header p {
     }
 
     .box img {
-        width: 3rem;
-        height: 3rem;
+        width: 2rem;
+        height: 2rem;
     }
 }
